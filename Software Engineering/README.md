@@ -22,3 +22,4 @@
 - Specify test cases
 - Variability modelling.
 - Develop a Prototype
+    - To develop a prototype we had to choose five full functionalities of the system to implement in a website.

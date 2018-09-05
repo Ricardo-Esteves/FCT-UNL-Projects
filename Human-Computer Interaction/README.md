@@ -1,31 +1,6 @@
+# Human-Computer Interaction <img align="right" width="100" height="50" src="https://camo.githubusercontent.com/b2029ffe76b249d5bdd72d48611937651db6a96a/68747470733a2f2f692e696d6775722e636f6d2f4c304e4c616a582e706e67">
+
 <p align="center">
   <img src="https://github.com/Ricardo-Esteves/CAN-I-COOK-IT/blob/master/img/logo.png">
 </p>
 
-# IPM Site
- - URL : https://ricardo-esteves.github.io/CAN-I-COOK-IT/
-
-# IPM Mobile App
-
- - Andoid App of IPM Project
- 
- ## Tasks
- 
- ### Ricardo
- 
- - [x] Home
- - [x] Inventory
- 
- ### David
- 
- - [x] Favourite
- - [x] Advanced Search
- 
- ### Tomas
- 
- - [x] Diets
- - [x] Shopping List
- 
- ## TODO
- 
- - [ ] Correct Bugs

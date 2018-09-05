@@ -1,0 +1,4 @@
+#Mon May 21 22:04:33 BST 2018
+base.0=C\:\\Users\\MendesPC\\Desktop\\SCMU Android\\SCMU-SmartDoor\\SocketServer-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\59
+path.0=classes.dex
+renamed.0=classes.dex

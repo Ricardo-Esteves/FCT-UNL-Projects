@@ -4,3 +4,11 @@
   <img src="https://github.com/Ricardo-Esteves/CAN-I-COOK-IT/blob/master/img/logo.png">
 </p>
 
+## Project First Part
+
+In this project initialy we had to create a logo and website to put the work of multiple deadlines.
+
+## Project First Part
+
+In the second part of this project we had to create a mabile or desktop app, with the goal of create an app as most friendly user and simple as possible. Our group decided to go with an Android mobile app made in Android Studio.
+

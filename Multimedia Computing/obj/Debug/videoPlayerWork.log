@@ -1,0 +1,6 @@
+﻿  generatedTimeline.cpp
+src\generatedTimeline.cpp(196): warning C4101: 'utils': unreferenced local variable
+  videoPlayerWork.vcxproj -> C:\Users\MendesPC\Documents\OpenFrameWork\of_v0.9.8_vs_release\apps\myApps\videoPlayerWork\bin\videoPlayerWork_debug.exe
+  videoPlayerWork.vcxproj -> bin\videoPlayerWork_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\MendesPC\Documents\OpenFrameWork\of_v0.9.8_vs_release\export\vs\Win32\

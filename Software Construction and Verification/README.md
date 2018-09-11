@@ -4,6 +4,26 @@
 - The language used was [Dafny](https://github.com/Microsoft/dafny) and [Verifast](https://github.com/verifast/verifast).
     
  ## First Handout
+ In this first part of the project I had to implement a method that eliminates duplicates in an array and then verify it by:
+
+ - Choosing the weakest preconditions I could find.
+ - Choosing the strongest postconditions I could find.
+ 
  ## Second Handout
+ The second part of the project I had to implement an ADT with tree states: Transient, Persistent and Detached,  and the multiple methods that were associated with the change of state such as: save, delete, close, update and a find.
+
+- For each method, I choose the weakest preconditions I could find.
+- For each method, I choose the strongest postconditions I could find.
+
  ## Third Handout
+The third handout we use Verifast language to guarantee that the code was correct.
+
+ - Our first challenge was to complete the code given by the teacher.
+ - The second challenge was to ensure that the code passes all that we made in Verifast.
+ 
  ## Fourth Handout
+ In this fourth part, we had to develop and verify a domotic system that contains a set of devices, sensors or actuators, and control rules. 
+
+ - Our first challenge was to structure each class (sensor, actuator, rule).
+ - Second, we had to Implement each class and a logger class to see the triggering of the rules.
+ - Finally, we implement the code in Verifast to verify all our tests.

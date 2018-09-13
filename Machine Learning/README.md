@@ -5,7 +5,7 @@
 
 ## Project 1
 
-The goal of this project was to parametrize, fit and compare ***Logistic Regression, ***K-Nearest Neighbours*** and ***Naïve Bayes*** classifiers, given a data set from the ***UCI machine learning*** repository. To accomplish this, we had to select the best regularization parameter for the ***Logistic Regression***, select the best K value for the ***K-Nearest Neighbours*** classifier and select the best bandwidth parameter for the Kernel Density Estimators used in the ***Naïve Bayes*** classifier. Besides, we had to make our own implementation of the ***Naïve Bayes*** classifier.
+The goal of this project was to parametrize, fit and compare ***Logistic Regression***, ***K-Nearest Neighbours*** and ***Naïve Bayes*** classifiers, given a data set from the ***UCI machine learning*** repository. To accomplish this, we had to select the best regularization parameter for the ***Logistic Regression***, select the best K value for the ***K-Nearest Neighbours*** classifier and select the best bandwidth parameter for the Kernel Density Estimators used in the ***Naïve Bayes*** classifier. Besides, we had to make our own implementation of the ***Naïve Bayes*** classifier.
 
 Finally, to compare the performance of the three classifiers and select the best one, we use the ***McNemar's test*** with a 95% confidence interval.
 

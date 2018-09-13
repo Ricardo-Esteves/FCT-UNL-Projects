@@ -44,5 +44,3 @@ The metadata for each item is the following and it is used to compare the videos
 
 Development and Library Support
 In order to support access to media content, we use openFrameworks as we were suggested. 
-* Make an Android App with the purpose of integrating with a door opening system.
-* Made in Android with Android Studio IDE.
